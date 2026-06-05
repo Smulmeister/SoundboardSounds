@@ -1,0 +1,38 @@
+User-agent: Applebot
+
+User-agent: ArchitextSpider
+
+User-agent: baiduspider
+
+User-agent: Googlebot
+
+User-agent: Googlebot-Image
+
+User-agent: Mediapartners-Google
+
+User-agent: naverbot
+
+User-agent: Scooter
+
+User-agent: seznambot
+
+User-agent: Slurp
+
+User-agent: teoma
+
+User-agent: Twitterbot
+
+User-agent: Yahoo-Blogs
+
+User-agent: Yahoo-MMCrawler
+
+User-agent: Yandex
+
+User-agent: Yeti
+
+Allow: /
+
+
+
+User-agent: *
+Disallow: /
